@@ -8,9 +8,7 @@
 import XCTest
 
  class DemoTests: signInScreen {
-    
-   // add initial commit123 in Github
-   
+       
     var wt=WalkThroughs()
     func testExample() throws {
        
