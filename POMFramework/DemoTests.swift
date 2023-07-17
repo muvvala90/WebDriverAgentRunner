@@ -15,25 +15,13 @@ import XCTest
         wt.walkthroughsNavigation()
         login(text: "prasadqat12@gmail.com")
         try loginThroughGmail(environment: "development")
-                        
-                                
-      
-        
     }
 
      
      func testExample1() throws {
-        
-         
-         
          wt.walkthroughsNavigation()
          login(text: "prasadqat12@gmail.com")
          try loginThroughGmail(environment: "staging")
-         
-         
-         
-         
-         
      }
     
 }
